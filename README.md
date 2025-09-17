@@ -19,7 +19,7 @@
 ## 📊 GitHub Stats
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreaXCode&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaXCode&layout=compact&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreaXCode&theme=radical)
 
 ---
 
